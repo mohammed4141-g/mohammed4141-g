@@ -37,7 +37,7 @@
       <td>Python</td>
     </tr>
     <tr>
-      <td><a href=""><b>This project is coming soon..</b></a></td>
+      <td><a href=""><b>Coming soon..</b></a></td>
       <td>Assembly</td>
     </tr>
   </tbody>
