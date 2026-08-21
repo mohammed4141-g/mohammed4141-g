@@ -5,7 +5,6 @@
 <p><strong>My goal is to know and to learn how NSO Group creating there sophisticated spywares.</strong></p>
 <h3>Things I code with</h3>
 <p>
-	<img alt="C Language" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white"/>
 	<img alt="C Language" src="https://img.shields.io/badge/-Language-00599C?style=flat-square&logo=c&logoColor=white"/>
 	<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
