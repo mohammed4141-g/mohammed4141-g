@@ -69,7 +69,6 @@
 <h3>My latest posts</h3>
 
 <h3>Where to find me</h3>
-<p>I'm Not Using Social Media.</p>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-------------
+<p>I'm Not Using Social Media, JUST <a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></p>
+<p>
 
