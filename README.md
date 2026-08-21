@@ -42,7 +42,7 @@
     <tr>
       <td><a href=""><b>Coming soon..</b></a></td>
       <td>Assembly</td>
-      <td>Python</td>
+      <td>Exploit chain</td>
     </tr>
   </tbody>
 </table>
