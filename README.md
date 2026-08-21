@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Mohammed, iOS Security Researcher, My hope is to find vulnerabilities in Apple Operating Systems :)</p>
+<p>Welcome to my page! </br> I'm Mohammed, iOS Security Researcher, My *** is to find vulnerabilities in Apple Operating Systems :)</p>
 <br>
 <h3>Things I code & play with</h3>
 <p>
