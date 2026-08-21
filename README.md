@@ -6,11 +6,11 @@
 <h3>Things I code with</h3>
 <p>
 	<img alt="C Language" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white"/>
-	<img alt="Python" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-	<img alt="JavaScript" src=""/>
-	<img alt="ARM Assembly" src=""/>
-	<img alt="FRIDA" src=""/>
-	<img alt="IDA Pro" src=""/>
+	<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+	<img alt="ARM Assembly" src="https://img.shields.io/badge/-ARM%20Assembly-0091BD?style=flat-square&logo=arm&logoColor=white"/>
+	<img alt="FRIDA" src="https://img.shields.io/badge/-FRIDA-A8192B?style=flat-square&logo=frida&logoColor=white"/>
+	<img alt="IDA Pro" src="https://img.shields.io/badge/-IDA%20Pro-2D2D2D?style=flat-square&logoColor=white"/>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
