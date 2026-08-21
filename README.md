@@ -2,7 +2,7 @@
 
 <p>Welcome to my page! </br> I'm Mohammed, iOS Security Researcher, My hope is to find vulnerabilities in Apple Operating Systems :)</p>
 <br>
-<h3>💻 Things I code & play with</h3>
+<h3>Things I code & play with</h3>
 <p>
 	<img alt="ARM Assembly" src="https://img.shields.io/badge/-ARM%20Assembly-0091BD?style=flat-square&logo=arm&logoColor=white"/> <br>
 	<img alt="C Language" src="https://img.shields.io/badge/-Language-00599C?style=flat-square&logo=c&logoColor=white"/>
