@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td><a href=""><b>This project is coming soon..</b></a></td>
-      <td>Assemably</td>
+      <td>Assembly</td>
     </tr>
   </tbody>
 </table>
