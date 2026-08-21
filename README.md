@@ -2,20 +2,23 @@
 
 <p>Welcome to my page! </br> I'm Mohammed, iOS Security Researcher, My hope is to find vulnerabilities in Apple Operating Systems :)</p>
 
-<h3>My Goal</h3>
-<p>My goal is to know and to learn how NSO Group creating there sophisticated spywares.</p>
-
 <h3>💻 Things I code & play with</h3>
 <p>
-	<img alt="C Language" src="https://img.shields.io/badge/-Language-00599C?style=flat-square&logo=c&logoColor=white"/> <br>
-	<img alt="C Language" src="https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logo=objectivec&logoColor=white"/>
-	<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <br>
-	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 	<img alt="ARM Assembly" src="https://img.shields.io/badge/-ARM%20Assembly-0091BD?style=flat-square&logo=arm&logoColor=white"/> <br>
+	<img alt="C Language" src="https://img.shields.io/badge/-Language-00599C?style=flat-square&logo=c&logoColor=white"/>
+	<img alt="ObjC Language" src="https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logo=objectivec&logoColor=white"/> 
+	<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <br>
+	<img alt="macOS" src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macos&logoColor=white"/>
+	<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 	<img alt="FRIDA" src="https://img.shields.io/badge/-FRIDA-A8192B?style=flat-square&logo=frida&logoColor=white"/>
+	<img alt="Ghidra" src="https://img.shields.io/badge/-Ghidra-1E3A5F?style=flat-square&logo=ghidra&logoColor=white"/>
 	<img alt="IDA Pro" src="https://img.shields.io/badge/-IDA%20Pro-2D2D2D?style=flat-square&logoColor=white"/>
+	
+
+	
 </p>
-<h3>Open source projects</h3>
+<h3>🎁 Open source projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -48,6 +51,6 @@
 </table>
 
 <h3>Where to find me</h3>
-<p>I'm Not Using Social Media, JUST </p>
+<p>I'm not using social media, just GitHub </p>
 <p><a href="https://github.com/mohammed4141-g" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></p>
 
