@@ -62,7 +62,6 @@
     </tr>
   </tbody>
 </table>
-<h3>My latest posts</h3>
 
 <h3>Where to find me</h3>
 <p>I'm Not Using Social Media, JUST </p>
