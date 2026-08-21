@@ -6,6 +6,7 @@
 <h3>Things I code with</h3>
 <p>
 	<img alt="C Language" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white"/>
+	<img alt="C Language" src="https://img.shields.io/badge/-C%25Language-00599C?style=flat-square&logo=c&logoColor=white"/>
 	<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 	<img alt="ARM Assembly" src="https://img.shields.io/badge/-ARM%20Assembly-0091BD?style=flat-square&logo=arm&logoColor=white"/>
