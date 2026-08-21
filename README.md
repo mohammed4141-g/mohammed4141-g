@@ -3,7 +3,7 @@
 
 <p>Welcome to my page! </br> I'm Mohammed, iOS Security Researcher, My hope is to find vulnerabilities in Apple Operating Systems :) </p>
 <p><strong>My goal is to know and to learn how NSO Group creating there sophisticated spywares.</strong></p>
-<h3>Things I code with</h3>
+<h3>Things I code & play with</h3>
 <p>
 	<img alt="C Language" src="https://img.shields.io/badge/-Language-00599C?style=flat-square&logo=c&logoColor=white"/>
 	<img alt="C Language" src="https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logo=objectivec&logoColor=white"/>
