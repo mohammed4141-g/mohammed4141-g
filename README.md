@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Mohammed, iOS Security Researcher, My hope is to find vulnerabilities in Apple Operating Systems :) </p>
-<p>My goal is to know how NSO Group created the most sophisticated spyware.</p>
+<p><strong>My goal is to know how NSO Group created the most sophisticated spyware.</strong></p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
