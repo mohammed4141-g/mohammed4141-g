@@ -24,25 +24,17 @@
   <thead>
     <tr>
       <th>🎁 Projects</th>
-      <th>🛠️ Tools</th>
       <th>📝 Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/mohammed4141-g/iOS_Reverse_Engineering.git"><b>Software Engineering</b></a></td>
-      <td>Frida &amp; IDA Pro</td>
       <td>Python</td>
     </tr>
     <tr>
       <td><a href="https://github.com/mohammed4141-g/Vulnerability-Scanner.git"><b>VRadar Vulnerabilities Scanner</b></a></td>
-      <td>Python</td>
-      <td>MacOS vulnerability scanner</td>
-    </tr>
-    <tr>
-      <td><a href=""><b>Coming soon..</b></a></td>
-      <td>Assembly</td>
-      <td>Exploit chain</td>
+      <td>All my projects that related to cybersecurity</td>
     </tr>
   </tbody>
 </table>
