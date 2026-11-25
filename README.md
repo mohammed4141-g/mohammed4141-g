@@ -23,14 +23,14 @@
 <table>
   <thead>
     <tr>
-      <th>🎁 Projects</th>
-      <th>📝 Description</th>
+      <th>Projects</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/mohammed4141-g/iOS_Reverse_Engineering.git"><b>Software Engineering</b></a></td>
-      <td>Python</td>
+      <td>Frontend, Backend, and System Design</td>
     </tr>
     <tr>
       <td><a href="https://github.com/mohammed4141-g/Vulnerability-Scanner.git"><b>VRadar Vulnerabilities Scanner</b></a></td>
