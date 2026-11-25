@@ -33,7 +33,7 @@
       <td>Frontend, Backend, and System Design</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mohammed4141-g/Vulnerability-Scanner.git"><b>VRadar Vulnerabilities Scanner</b></a></td>
+      <td><a href="https://github.com/mohammed4141-g/Vulnerability-Scanner.git"><b>Cybersecurity</b></a></td>
       <td>All my projects that related to cybersecurity</td>
     </tr>
   </tbody>
