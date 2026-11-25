@@ -30,7 +30,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/mohammed4141-g/iOS_Reverse_Engineering.git"><b>iOS Vulnerabilities</b></a></td>
+      <td><a href="https://github.com/mohammed4141-g/iOS_Reverse_Engineering.git"><b>Software Engineering</b></a></td>
       <td>Frida &amp; IDA Pro</td>
       <td>Python</td>
     </tr>
